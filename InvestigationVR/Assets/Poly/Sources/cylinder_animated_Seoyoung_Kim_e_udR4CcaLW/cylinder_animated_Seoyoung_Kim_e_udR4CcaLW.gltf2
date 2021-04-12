@@ -1,0 +1,427 @@
+{
+   "accessors" : [
+      {
+         "bufferView" : 0,
+         "byteOffset" : 0,
+         "componentType" : 5125,
+         "count" : 432,
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 432,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 432,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 432,
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5125,
+         "count" : 158220,
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 5,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 158220,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 6,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 158220,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 7,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 158220,
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 8,
+         "byteOffset" : 0,
+         "componentType" : 5125,
+         "count" : 532320,
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 9,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 532320,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 10,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 532320,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 11,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 532320,
+         "type" : "VEC2"
+      },
+      {
+         "bufferView" : 12,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 13,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 14,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 15,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 16,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 17,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 74,
+         "type" : "VEC3"
+      }
+   ],
+   "animations" : [
+      {
+         "channels" : [
+            {
+               "sampler" : 0,
+               "target" : {
+                  "node" : 4,
+                  "path" : "rotation"
+               }
+            },
+            {
+               "sampler" : 1,
+               "target" : {
+                  "node" : 2,
+                  "path" : "translation"
+               }
+            },
+            {
+               "sampler" : 2,
+               "target" : {
+                  "node" : 4,
+                  "path" : "translation"
+               }
+            },
+            {
+               "sampler" : 3,
+               "target" : {
+                  "node" : 2,
+                  "path" : "scale"
+               }
+            },
+            {
+               "sampler" : 4,
+               "target" : {
+                  "node" : 4,
+                  "path" : "scale"
+               }
+            }
+         ],
+         "name" : "CINEMA_4D_Main",
+         "samplers" : [
+            {
+               "input" : 12,
+               "interpolation" : "LINEAR",
+               "output" : 13
+            },
+            {
+               "input" : 12,
+               "interpolation" : "LINEAR",
+               "output" : 14
+            },
+            {
+               "input" : 12,
+               "interpolation" : "LINEAR",
+               "output" : 15
+            },
+            {
+               "input" : 12,
+               "interpolation" : "LINEAR",
+               "output" : 16
+            },
+            {
+               "input" : 12,
+               "interpolation" : "LINEAR",
+               "output" : 17
+            }
+         ]
+      }
+   ],
+   "asset" : {
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+         "buffer" : 0,
+         "byteLength" : 1728,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 5184,
+         "byteOffset" : 1728
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 5184,
+         "byteOffset" : 6912
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 3456,
+         "byteOffset" : 12096
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 632880,
+         "byteOffset" : 15552
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1898640,
+         "byteOffset" : 648432
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1898640,
+         "byteOffset" : 2547072
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1265760,
+         "byteOffset" : 4445712
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 2129280,
+         "byteOffset" : 5711472
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 6387840,
+         "byteOffset" : 7840752
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 6387840,
+         "byteOffset" : 14228592
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 4258560,
+         "byteOffset" : 20616432
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 296,
+         "byteOffset" : 24874992,
+         "byteStride" : 4
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 1184,
+         "byteOffset" : 24875288,
+         "byteStride" : 16
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 888,
+         "byteOffset" : 24876472,
+         "byteStride" : 12
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 888,
+         "byteOffset" : 24877360,
+         "byteStride" : 12
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 888,
+         "byteOffset" : 24878248,
+         "byteStride" : 12
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 888,
+         "byteOffset" : 24879136,
+         "byteStride" : 12
+      }
+   ],
+   "buffers" : [
+      {
+         "byteLength" : 24880024,
+         "uri" : "model.bin"
+      }
+   ],
+   "materials" : [
+      {
+         "name" : "Mat.2",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 0.84, 0.7795200000000002, 0.3864, 1 ]
+         }
+      },
+      {
+         "name" : "Mat.1",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 0.18, 0.18, 0.18, 1 ]
+         }
+      },
+      {
+         "name" : "Transparent Plastic",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 0, 0, 0, 1 ]
+         }
+      }
+   ],
+   "meshes" : [
+      {
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+                  "TEXCOORD_0" : 3
+               },
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            }
+         ]
+      },
+      {
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 6,
+                  "POSITION" : 5,
+                  "TEXCOORD_0" : 7
+               },
+               "indices" : 4,
+               "material" : 1,
+               "mode" : 4
+            }
+         ]
+      },
+      {
+         "primitives" : [
+            {
+               "attributes" : {
+                  "NORMAL" : 10,
+                  "POSITION" : 9,
+                  "TEXCOORD_0" : 11
+               },
+               "indices" : 8,
+               "material" : 2,
+               "mode" : 4
+            }
+         ]
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [ 1, 2, 4 ],
+         "name" : "RootNode",
+         "rotation" : [ 0, 0, 0, 1 ],
+         "scale" : [ 1, 1, 1 ],
+         "translation" : [ 0, 0, 0 ]
+      },
+      {
+         "name" : "CINEMA_4D_Editor",
+         "rotation" : [
+            -0.1866714682021551,
+            0.8665631303926887,
+            0.09746757918414545,
+            -0.4524623465121249
+         ],
+         "scale" : [ 0.009999999999999998, 0.01, 0.01 ],
+         "translation" : [ 0.531419541988924, 1.237957802536945, -0.9634972497592831 ]
+      },
+      {
+         "children" : [ 3 ],
+         "name" : "Cylinder",
+         "rotation" : [ 0, 0, 0, 0 ],
+         "scale" : [ 0, 0, 0 ],
+         "translation" : [ -0.1811240314027791, 0.4270392097001552, 0.0007536440731376183 ]
+      },
+      {
+         "mesh" : 0,
+         "rotation" : [ 0, 0, 0, 1 ],
+         "scale" : [ 1, 1, 1 ],
+         "translation" : [ 0, 0, 0 ]
+      },
+      {
+         "children" : [ 5, 6 ],
+         "name" : "Sweep_1",
+         "rotation" : [ 0, 0.06430325440157469, 0, 0.9979304041231365 ],
+         "scale" : [ 0.009999999999999992, 0.01, 0.009999999999999992 ],
+         "translation" : [ -0.1509943527135039, 0.9764585816882401, -0.05041772166774207 ]
+      },
+      {
+         "mesh" : 1,
+         "rotation" : [ 0, 0, 0, 1 ],
+         "scale" : [ 1, 1, 1 ],
+         "translation" : [ 0, 0, 0 ]
+      },
+      {
+         "mesh" : 2,
+         "rotation" : [ 0, 0, 0, 1 ],
+         "scale" : [ 1, 1, 1 ],
+         "translation" : [ 0, 0, 0 ]
+      }
+   ],
+   "scenes" : [
+      {
+         "nodes" : [ 0 ]
+      }
+   ]
+}
